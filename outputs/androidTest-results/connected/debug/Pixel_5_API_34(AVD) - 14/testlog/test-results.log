@@ -1,0 +1,24 @@
+INSTRUMENTATION_STATUS: class=edu.vassar.cmpu203.myfirstapplication.CreateTripInstTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+edu.vassar.cmpu203.myfirstapplication.CreateTripInstTest:
+INSTRUMENTATION_STATUS: test=testCreateTrip
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=edu.vassar.cmpu203.myfirstapplication.CreateTripInstTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testCreateTrip
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 16.52
+
+OK (1 test)
+
+
+INSTRUMENTATION_CODE: -1
+

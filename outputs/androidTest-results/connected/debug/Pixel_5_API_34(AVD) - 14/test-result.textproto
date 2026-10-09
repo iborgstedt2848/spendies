@@ -1,0 +1,68 @@
+# 2024-12-16T02:54:04.893113Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "CreateTripInstTest"
+    test_package: "edu.vassar.cmpu203.myfirstapplication"
+    test_method: "testCreateTrip"
+    start_time {
+      seconds: 1734317624
+      nanos: 841000000
+    }
+    end_time {
+      seconds: 1734317641
+      nanos: 275000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/isabelle/Desktop/team-1f/AStudio/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_34(AVD) - 14/logcat-edu.vassar.cmpu203.myfirstapplication.CreateTripInstTest-testCreateTrip.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/isabelle/Desktop/team-1f/AStudio/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_34(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/isabelle/Desktop/team-1f/AStudio/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_34(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/isabelle/Desktop/team-1f/AStudio/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_34(AVD) - 14/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/isabelle/Desktop/team-1f/AStudio/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_34(AVD) - 14/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

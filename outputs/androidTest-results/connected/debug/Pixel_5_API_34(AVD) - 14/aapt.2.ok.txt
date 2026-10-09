@@ -1,0 +1,29 @@
+EXECUTING: /Users/isabelle/Library/Android/sdk/build-tools/34.0.0/aapt dump badging /Users/isabelle/Desktop/team-1f/AStudio/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk
+CURRENT_WORKING_DIRECTORY: /Users/isabelle/Desktop/team-1f/AStudio
+START_TIME: 2024-12-15 21:54:03.631
+START_TIME-NANOS: 2024-12-15 21:54:03.631165000
+ENVIRONMENT:
+
+*****************************************
+STDOUT/STDERR BELOW
+===================
+package: name='edu.vassar.cmpu203.myfirstapplication.test' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+sdkVersion:'30'
+targetSdkVersion:'34'
+uses-permission: name='android.permission.REORDER_TASKS'
+application: label='' icon=''
+application-debuggable
+uses-library:'android.test.runner'
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+other-activities
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales: '--_--'
+densities: '160'
+===================
+END_TIME: 2024-12-15 21:54:03.652
+END_TIME-NANOS: 2024-12-15 21:54:03.652294000
+DURATION: 21ms
+EXIT CODE: 0
